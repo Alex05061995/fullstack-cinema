@@ -1,0 +1,1 @@
+export const convertMondoDbDate = (date:string) => new Date(date).toLocaleDateString('ru');
